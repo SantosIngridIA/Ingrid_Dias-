@@ -59,7 +59,7 @@ Estudante de Ciência de Dados, apaixonada por tecnologia e inovação. Atualmen
 #
 <h3 align="center"> 🎧 Ouvindo no Spotify </h3>
 <div align="center">
-  <a href="https://open.spotify.com/user/31lpvdabykx3ozuyak2bmfgr436q">
+  <a href="[https://open.spotify.com/user/31lpvdabykx3ozuyak2bmfgr436q]">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31lpvdabykx3ozuyak2bmfgr436q&count=5&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
