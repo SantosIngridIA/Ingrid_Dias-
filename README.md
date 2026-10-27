@@ -1,134 +1,75 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" 
-      alt="Typing SVG"
-    >
-  </a>
-</div>
 
----
+# 👋 Olá, eu sou a Ingrid!
 
-<div align="center">
-  <h3>📊 GitHub Stats</h3>
-  <br>
+### Estudante de Ciência de Dados | UNIVESP
 
-  <img 
-    src="https://streak-stats.demolab.com?user=diasingrid249-maker&locale=pt-br&mode=daily&theme=synthwave&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" 
-    height="170" 
-    alt="streak graph" 
-  />
-</div>
+Explorando dados, tecnologia e formas de transformar informação em decisões melhores.
 
----
-
-<div align="center">
-
-# 👋 Olá! Eu sou Ingrid
-
-Estudante de Ciência de Dados, apaixonada por tecnologia e inovação. Atualmente, desenvolvo projetos focados em Data Science e análise de dados, com o objetivo de contribuir para o avanço da sociedade por meio da tecnologia.
+[![Python](https://img.shields.io/badge/Python-em%20estudo-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![SQL](https://img.shields.io/badge/SQL-em%20estudo-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Power BI](https://img.shields.io/badge/Power%20BI-dados%20e%20visualização-F2C811?style=for-the-badge&logo=powerbi&logoColor=111111)](https://powerbi.microsoft.com/)
 
 </div>
 
 ---
 
-## 📚 Experiência Prática e Formação
+## 🌱 Sobre mim
 
-- **Embaixadora DIO Campus Expert** - Turma 10 de 2024
-- **Cursos:**
-  - Machine Learning pela AWS
-  - Python pela DIO
-  - Análise de Dados com Power BI - Suzano
-  - Bootcamps e workshops diversos em Ciência de Dados
+- 🎓 Graduanda em **Ciência de Dados** pela **UNIVESP**.
+- 📊 Tenho interesse em **análise de dados, visualização e aprendizado de máquina**.
+- 🧩 Gosto de aprender construindo projetos e resolvendo problemas do mundo real.
+- 🚀 Meu objetivo é crescer na área de **Dados** e contribuir com soluções úteis.
 
----
-
-<h3 align="center">🚀 Áreas de Foco e Habilidades</h3>
-
-<div align="center">
-  <img width="12" />
-  <img 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
-    height="34" 
-    alt="Python logo"  
-  />
-  <img width="12" />
-  <img 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" 
-    height="34" 
-    alt="AWS logo"  
-  />
-  <img width="12" />
-  <img 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" 
-    height="34" 
-    alt="MySQL logo"  
-  />
-  <img width="12" />
-  <img 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" 
-    height="34" 
-    alt="Ruby logo"  
-  />
-</div>
-
-<br>
-
-<img align="right" alt="Study gif" height="190px" src="./src/study.gif">
-
-<h3 align="center">🌐 Vamos nos conectar?</h3>
+## 🛠️ Tecnologias e estudos
 
 <div align="center">
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6)](mailto:diasingrid249@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6)](https://www.linkedin.com/in/ingrid-santos-63460aab/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6)](https://www.instagram.com/yndi_guid/)
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-000?style=for-the-badge&logo=whatsapp&logoColor=FF00F6)](https://api.whatsapp.com/send?phone=5511993734834)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=111111)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 
 </div>
 
-<br>
+Atualmente estou fortalecendo meus conhecimentos em **Python e SQL** e desenvolvendo minha prática com análise e visualização de dados.
+
+## ✨ Formação e experiências de aprendizagem
+
+- **Ciência de Dados** — UNIVESP
+- **DIO Campus Expert** — Turma 10 (2024)
+- Cursos de **Python** (DIO), **Machine Learning** (AWS) e **Power BI** (Suzano)
+- Participação em bootcamps e workshops de tecnologia e Ciência de Dados
+
+## 📌 Projeto em destaque
+
+### [Chave Direta](https://github.com/SantosIngridIA/chave-direta)
+
+Projeto Integrador da UNIVESP: uma plataforma acadêmica para busca, anúncio, locação e compra de imóveis. O projeto reúne desenvolvimento de software, banco de dados, experiência do usuário e documentação técnica.
+
+## 📊 GitHub
 
 <div align="center">
-  Sinta-se à vontade para entrar em contato e trocar ideias sobre Data Science, tecnologia ou inovação!
+
+![Estatísticas do GitHub da Ingrid](https://github-readme-stats.vercel.app/api?username=SantosIngridIA&show_icons=true&theme=synthwave&hide_border=true&locale=pt-br)
+
+![Sequência de contribuições da Ingrid](https://streak-stats.demolab.com?user=SantosIngridIA&theme=synthwave&hide_border=true&locale=pt_BR)
+
 </div>
 
----
-
-<h3 align="center">🎧 Ouvindo no Spotify</h3>
+## 🤝 Vamos nos conectar?
 
 <div align="center">
-  <a href="https://open.spotify.com/user/31lpvdabykx3ozuyak2bmfgr436q">
-    <img 
-      src="https://spotify-recently-played-readme.vercel.app/api?user=31lpvdabykx3ozuyak2bmfgr436q&count=5&unique=true" 
-      alt="Spotify recently played"  
-    />
-  </a>
+
+[![E-mail](https://img.shields.io/badge/E--mail-000000?style=for-the-badge&logo=microsoftoutlook&logoColor=FF00F6)](mailto:diasingrid249@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FF00F6)](https://www.linkedin.com/in/ingrid-santos-63460aab/)
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=FF00F6)](https://www.instagram.com/yndi_guid/)
+[![Spotify](https://img.shields.io/badge/Spotify-000000?style=for-the-badge&logo=spotify&logoColor=1DB954)](https://open.spotify.com/user/31lpvdabykx3ozuyak2bmfgr436q)
+
 </div>
 
----
-
-<picture>
-  <source 
-    media="(prefers-color-scheme: dark)" 
-    srcset="https://raw.githubusercontent.com/diasingrid249-maker/diasingrid249-maker/output/github-contribution-grid-snake-dark.svg"
-  >
-  <source 
-    media="(prefers-color-scheme: light)" 
-    srcset="https://raw.githubusercontent.com/diasingrid249-maker/diasingrid249-maker/output/github-contribution-grid-snake.svg"
-  >
-  <img 
-    align="center" 
-    alt="github contribution grid snake animation" 
-    src="https://raw.githubusercontent.com/diasingrid249-maker/diasingrid249-maker/output/github-contribution-grid-snake.svg
-  >
-</picture>
-
----
-
 <div align="center">
-  <img 
-    src="https://profile-counter.glitch.me/diasingrid249-maker/count.svg?" 
-    alt="Profile counter"  
-  />
+
+💬 Fique à vontade para conversar comigo sobre dados, tecnologia e projetos!
+
 </div>
